@@ -1,0 +1,13 @@
+Badge	KEYWORD1
+button	KEYWORD2
+led	KEYWORD2
+play	KEYWORD2
+writePage	KEYWORD2
+readPage	KEYWORD2
+writeByte	KEYWORD2
+readByte	KEYWORD2
+init	KEYWORD2
+updateAccel	KEYWORD2
+readX	KEYWORD2
+readY	KEYWORD2
+readZ	KEYWORD2
