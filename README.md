@@ -15,5 +15,6 @@ This badge is based on an Arduino Micro, same pinout plus extra components:
 * Acclerometer
 * RGB Led
 * Piezzo buzzer
+* EEPROM
 
 Everything is handled by this library. Components pinout may be found in the source code.
